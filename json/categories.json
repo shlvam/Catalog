@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "short_name": "L",
+        "name": "Lunch",
+        "special_instructions": "Sunday-Friday 11:15am-3:00pm."
+    },
+    {
+        "id": 2,
+        "short_name": "s",
+        "name": "Soup",
+        "special_instructions": ""
+    },
+    {
+        "id": 3,
+        "short_name": "sw",
+        "name": "Sweats",
+        "special_instructions": ""
+    },
+    {
+        "id": 4,
+        "short_name": "n",
+        "name": "Noodles",
+        "special_instructions": ""
+    },
+    {
+        "id": 5,
+        "short_name": "v",
+        "name": "Vegetables",
+        "special_instructions": ""
+    }
+]

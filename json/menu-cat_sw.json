@@ -1,0 +1,59 @@
+{
+    "menu_items": [
+        {
+            "id": 1069,
+            "short_name": "sw1",
+            "name": "Sugar Free Kaju Barfi",
+            "description": "chunks of chicken, breaded and deep-fried with sauce containing orange peels; white meat by request: for pint $1 extra, for large $2 extra",
+            "price_small": null,
+            "price_large": 110.0,
+            "small_portion_name": null,
+            "large_portion_name": null
+        },
+        {
+            "id": 1070,
+            "short_name": "sw2",
+            "name": "Doda Barfi",
+            "description": "chunks of chicken, breaded and deep-fried with sauce and scallions; white meat by request: for pint $1 extra, for large $2 extra",
+            "price_small": null,
+            "price_large": 235,
+            "small_portion_name": null,
+            "large_portion_name": null
+        },
+        {
+            "id": 1071,
+            "short_name": "sw3",
+            "name": "soan Papdi",
+            "description": "diced chicken with waterchestnuts, green peppers, and celery, and cashewnuts; white meat by request: for pint $1 extra, for large $2 extra",
+            "price_small": null,
+            "price_large": 156,
+            "small_portion_name": null,
+            "large_portion_name": null
+        },
+        {
+            "id": 1072,
+            "short_name": "sw4",
+            "name": "Laddu",
+            "description": "beef sauteed with carrots and celery, in a spicy Szechuan sauce",
+            "price_small": null,
+            "price_large": 75,
+            "small_portion_name": null,
+            "large_portion_name": null
+        },
+        {
+            "id": 1073,
+            "short_name": "sw",
+            "name": "Rasgulla",
+            "description": "white meat chicken sauteed with string beans and soy sauce",
+            "price_small": null,
+            "price_large": 110.50,
+            "small_portion_name": null,
+            "large_portion_name": null
+        }
+    ],
+    "category": {
+        "short_name": "sw",
+        "name": "Sweats",
+        "special_instructions": "Sunday-Friday 09:00am-09:30pm."
+    }
+}
